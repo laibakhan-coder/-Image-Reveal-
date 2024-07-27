@@ -1,3 +1,4 @@
+/* style.css */
 .image-container {
     position: relative;
     width: 500px; /* Adjust according to your desired image size */
@@ -8,10 +9,9 @@
     position: absolute;
     top: 0;
     left: 0;
-    width: 250%;
-    height: 250%;
+    width: 100%;
+    height: 100%;
     transition: opacity 0.3s ease;
-    align-self: center
 }
 
 .hidden {
